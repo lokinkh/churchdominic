@@ -1,0 +1,33 @@
+{
+  "name": "churchdominic",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "churchdominic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lokinkh/churchdominic"
+  },
+  "website": "https://github.com/lokinkh/churchdominic.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "lokinkh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokinkh/churchdominic/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/lokinkh/churchdominic#readme",
+  "dependencies": {
+    "bobbygavinsmollett": "1.0.2"
+  }
+}
